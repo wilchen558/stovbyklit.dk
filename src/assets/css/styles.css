@@ -251,3 +251,44 @@ h3 {
 .main-content {
     padding: 0em 1em;
 }
+
+.pure-menu-horizontal {
+    float: right;
+    width: initial;
+}
+
+.logo {
+    float: left;
+    vertical-align: middle;
+    text-decoration: none;
+    margin-top: -5px;
+}
+
+.logo img {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+}
+
+.site-description {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 10px;
+}
+
+.sitetitle {
+    margin-bottom: 0px;
+    margin-top: -15px;
+}
+
+.sitetitle a {
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.tagline {
+    color: gray;
+    font-size: 12px;
+    margin-top: 0px;
+}

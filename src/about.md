@@ -1,6 +1,7 @@
 ---
 title: "About"
 blurb: "Tara Himmels is an astrophysicist and retro music enthusiast. Electroniq is her blog."
+layout: page.html
 ---
 
 Hello, my name is Tara Himmels.
