@@ -2,6 +2,7 @@
 title: "Hello World"
 date: 2016-10-12
 blurb: An introduction to our blog Electroniq
+excerpt: An introduction to our blog Electroniq
 ---
 
 ## Welcome to Electroniq
